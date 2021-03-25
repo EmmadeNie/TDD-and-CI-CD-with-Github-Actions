@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/first-gatsby-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gatsby-startup-project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/passwordVerifier" vcs="Git" />
   </component>
 </project>
